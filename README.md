@@ -36,7 +36,7 @@ _ViewStart.cshtml → Shared layout configuration
 
 wwwroot/site.css → Static styling files
 
-⚙️ Key Concepts Demonstrated
+Key Concepts Demonstrated
 
 MVC Architecture (Model-View-Controller)
 
