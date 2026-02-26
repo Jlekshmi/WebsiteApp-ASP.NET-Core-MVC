@@ -2,7 +2,8 @@
 
 ASP.NET Core MVC Web Application
 
-<img width="1518" height="896" alt="image" src="https://github.com/user-attachments/assets/81b4e3c7-7996-4873-a240-aa45e50d139d" />
+<img width="1508" height="832" alt="image" src="https://github.com/user-attachments/assets/9b25ff02-71b7-45e4-a9db-78c6103adc55" />
+
 <img width="1485" height="925" alt="image" src="https://github.com/user-attachments/assets/919064ac-ae9a-449d-b57c-b0dcfbc42c0c" />
 
 **Overview**
