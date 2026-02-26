@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Contact Me";
+    var contactInfo = ViewBag.ContactInfo as List<string>;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul class="list-unstyled">
+    @foreach (var info in contactInfo)
+    {
+        <li>@info</li>
+    }
+</ul>
